@@ -1,15 +1,16 @@
-### Hi there 👋, I'm Abdulloh
+<h1 align="center">Hi there 👋, I'm Abdulloh</h1>
 
+<div align="center">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzoReLj6mH35iFyHdfRosqZxqMIgLhXvx96b-X7HOLSi6XJYQspyb5s-vTI-IpDPfrk0U&usqp=CAU">
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzoReLj6mH35iFyHdfRosqZxqMIgLhXvx96b-X7HOLSi6XJYQspyb5s-vTI-IpDPfrk0U&usqp=CAU">
  <img alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzoReLj6mH35iFyHdfRosqZxqMIgLhXvx96b-X7HOLSi6XJYQspyb5s-vTI-IpDPfrk0U&usqp=CAU">
 </picture>
-
+</div>
 
 ## About me
 
-Hi, I'm Mona. I've been working on web design and development. I finished Front End and currently learning Back end. 
+Hi, I'm Abdulloh. I've been working on web design and development. I finished Front End and currently learning Back end. 
 
 ## Contact me
 
@@ -30,13 +31,13 @@ Hi, I'm Mona. I've been working on web design and development. I finished Front 
 
 ## My Stats
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulloh-Mamanazirov&hide=less,ruby,makefile&theme=tokyonight)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulloh-Mamanazirov)]
+<div>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulloh-Mamanazirov&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abdulloh" /></p>
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mamanazirov&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mamanazirov&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -45,6 +46,8 @@ Hi, I'm Mona. I've been working on web design and development. I finished Front 
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mamanazirov&show_icons=true" />
 </picture>
+</div>
+
 
 
 ---
