@@ -10,7 +10,7 @@
 
 ## About me
 
-Hi, I'm Abdulloh. I've been working on web design and development. I finished Front End and currently learning Back End. 
+Hi, I'm Abdulloh!
 
 ## Contact me
 
