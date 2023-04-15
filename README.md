@@ -30,11 +30,11 @@ Hi, I'm Abdulloh!
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg">
 </div>
 <div>
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/nodejs.svg">
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/express.svg">
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/mongodb .svg">
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/postgres.svg">
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/bots.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
 </div>
 
 ## My Stats
