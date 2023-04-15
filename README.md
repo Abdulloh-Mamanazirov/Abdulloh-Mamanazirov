@@ -26,7 +26,7 @@ Hi, I'm Abdulloh!
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/materialui.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg">
 </div>
 <div>
