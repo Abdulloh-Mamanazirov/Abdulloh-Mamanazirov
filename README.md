@@ -16,7 +16,7 @@ Hi, I'm Abdulloh!
 
 <a href="https://twitter.com/a_mamanazirov"> <img alt="image" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg"></a>
 <a href="https://www.instagram.com/abdulloh_mamanazirov/"><img alt="image" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"></a>
-<a href="https://t.me/Mr_Abdulloh">Telegram</a>
+<a href="https://t.me/Mr_Abdulloh"><img alt="image" width="60" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"></a>
 
 ## Languages And Tools
 
