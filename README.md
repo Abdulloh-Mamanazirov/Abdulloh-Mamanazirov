@@ -29,6 +29,7 @@ Hi, I'm Abdulloh!
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
 </div>
 <div>
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
@@ -37,6 +38,7 @@ Hi, I'm Abdulloh!
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
 </div>
 
 ## My Stats
