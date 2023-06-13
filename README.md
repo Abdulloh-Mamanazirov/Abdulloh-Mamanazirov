@@ -36,6 +36,7 @@ Hi, I'm Abdulloh!
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
 </div>
 
 ## My Stats
