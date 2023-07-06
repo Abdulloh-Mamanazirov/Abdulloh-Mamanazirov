@@ -45,11 +45,12 @@ Hi, I'm Abdulloh!
 
 <div>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulloh-Mamanazirov&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abdulloh" /></p>
-
+<!--
+<p><img align="left" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/Abdulloh-Mamanazirov/github-readme-stats)" alt="abdulloh" /></p>
+-->
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mamanazirov&show_icons=true&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulloh-Mamanazirov&layout=compact&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
