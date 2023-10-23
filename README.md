@@ -34,12 +34,13 @@ I have developed skills in programming, web development, database management, an
 </div>
 <div>
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg">
 </div>
 
 ## My Stats
@@ -61,7 +62,7 @@ I have developed skills in programming, web development, database management, an
 <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mamanazirov&show_icons=true" />
 </picture>
 
-[![Hovsep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulloh-Mamanazirov&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdulloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulloh-Mamanazirov&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
