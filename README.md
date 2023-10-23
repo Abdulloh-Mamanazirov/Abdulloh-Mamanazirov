@@ -11,6 +11,7 @@
 ## About me
 
 Hi, I'm Abdulloh!
+I have developed skills in programming, web development, database management, and software engineering through my coursework and projects. I am excited about applying my knowledge and creativity to real-world challenges and learn from experienced professionals in the IT industry. 
 
 ## Contact me
 
