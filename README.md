@@ -47,9 +47,6 @@ I have developed skills in programming, web development, database management, an
 
 <div>
  
-<!--
-<p><img align="left" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/Abdulloh-Mamanazirov/github-readme-stats)" alt="abdulloh" /></p>
--->
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulloh-Mamanazirov&layout=compact&theme=transparent"
