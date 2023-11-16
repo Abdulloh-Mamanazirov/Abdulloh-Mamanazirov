@@ -27,7 +27,9 @@ I have developed skills in programming, web development, database management, an
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
@@ -41,12 +43,13 @@ I have developed skills in programming, web development, database management, an
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
 <img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+<img alt="image" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
 </div>
 
 ## My Stats
 
 <div>
- 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulloh-Mamanazirov&layout=compact&theme=transparent"
